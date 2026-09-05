@@ -23,5 +23,4 @@
 
 #### **To do.**
 
-- [x] visualize doppler effect in C + practice using CMake
-- [ ] pickup _CUDA_.
+- [ ] attempt minimal wayland shell.
